@@ -40,3 +40,6 @@
   - https://developer.android.com/training/basics/supporting-devices/languages
 - Dp vs Sp
   - https://developer.android.com/training/multiscreen/screendensities
+
+# Screenshot
+![](https://raw.githubusercontent.com/yuchailam/AndroidTutorials-Goolge/master/Basic/1.Basic_Layout-HappyBirthday/screenshot/main.PNG)
