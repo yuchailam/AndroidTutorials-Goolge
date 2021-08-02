@@ -1,4 +1,4 @@
-#What you'll learn
+# What you'll learn
 
 - Add an image to your project
   - Click the + below **Resource Manager**, and select Import Drawables
@@ -9,7 +9,7 @@
 - Image scaleType
   - Make background with the image, change the **scaleType** attribute to **centerCrop**
 
-##Good coding practices
+## Good coding practices
 
 - Translating
 
@@ -20,7 +20,7 @@
   - Content description can help make your app more usable with **TalkBack** by defining the purpose of the UI element.
   - Tell TalkBack to skip the ImageView by setting its **importantForAccessibility** attribute to **no**.
 
-##Concept
+## Concept
 
 - ViewGroup
   - It serves as a container for View objects, and is responsible for arranging the View objects within it
@@ -32,7 +32,7 @@
 - Sp
   - scalable pixels: it resizes based on the user's preferred text size.
 
-##Read more
+## Read more
 
 - Accessibility:
   - https://developer.android.com/guide/topics/ui/accessibility
