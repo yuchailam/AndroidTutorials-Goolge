@@ -7,4 +7,4 @@
 
 ## Screemshot
 
-![]https://raw.githubusercontent.com/yuchailam/AndroidTutorials-Goolge/master/Basic/2.Basic_Layout-DiceApp/screenshot/main.PNG
+![](https://raw.githubusercontent.com/yuchailam/AndroidTutorials-Goolge/master/Basic/2.Basic_Layout-DiceApp/screenshot/main.PNG)
